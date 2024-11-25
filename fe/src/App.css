@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  color: white;
+  padding: 5px 10px; /* Reduce padding for a tighter bar */
+  font-size: 1.2rem; /* Adjust font size for a smaller header */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.App-main {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+
